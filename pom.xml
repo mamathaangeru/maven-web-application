@@ -99,7 +99,7 @@
 	    </snapshotRepository>
           <repositories>
           <repository>
-	  <id>nexus</id>
+	  <id>central</id>
           <name>jenkins </name>
           <url>http://ec2-52-66-241-66.ap-south-1.compute.amazonaws.com:8081/repository/jenkins-proxy/</url>
 	</repository>
