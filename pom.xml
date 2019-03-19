@@ -97,6 +97,13 @@
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://ec2-52-66-241-66.ap-south-1.compute.amazonaws.com:8081/repository/jenkins-snapshot/</url>
 	    </snapshotRepository>
+          <repositories>
+          <repository>
+	  <id>jenkins</id>
+          <name>jenkins</name>
+          <url>http://ec2-52-66-241-66.ap-south-1.compute.amazonaws.com:8081/repository/jenkins-proxy/</url>
+	</repository>
+		</repositories>
 	</distributionManagement>
 	
 	<build>
