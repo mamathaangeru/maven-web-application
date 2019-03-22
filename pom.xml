@@ -102,7 +102,7 @@
           <repository>
 	  <id>central</id>
           <name>jenkins </name>
-          <url>http://ec2-13-232-229-162.ap-south-1.compute.amazonaws.com:8081/repository/maven-proxy/</url>
+          <url>http://ec2-13-232-229-162.ap-south-1.compute.amazonaws.com:8081/repository/maven-group/></url>
 	</repository>
 		</repositories> 
 	
